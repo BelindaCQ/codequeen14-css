@@ -1,0 +1,22 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 20px;
+}
+
+h1 {
+    color: rgb(120, 6, 124);
+    text-align:center ;
+}
+p {
+font-size: 16px;
+line-height: 1.5;
+}
+.main-heading {
+    background-color: pink;
+    }
+    #paragraph-2 {
+        color: blueviolet;
+    }
+    .first-paragraph {
+        margin-left: 10px;
+    }
